@@ -1,0 +1,13 @@
+{
+    "name": "talandar_2k_planets",
+    "version": "0.1.0",
+    "title": "Talandar's 2k Planets",
+    "author": "Talandar",
+    "dependencies": [
+        "base >= 2.0",
+        "space-age",
+        "visible-planets"
+    ],
+    "description": "HD planet renders for Visible Planets mod",
+    "factorio_version": "2.0"
+}
