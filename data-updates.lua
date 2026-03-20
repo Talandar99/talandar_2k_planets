@@ -22,6 +22,12 @@ if mods["corrundum"] then
 	end
 end
 
+if mods["castra"] then
+	if settings.startup["talandar_2k_planets_castra"].value then
+		table.insert(planets, "castra")
+	end
+end
+
 if mods["secretas"] then
 	if settings.startup["talandar_2k_planets_secretas"].value then
 		table.insert(planets, "secretas")

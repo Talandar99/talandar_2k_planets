@@ -51,6 +51,18 @@ if mods["corrundum"] then
 	})
 end
 
+if mods["castra"] then
+	data:extend({
+		{
+			type = "bool-setting",
+			name = "talandar_2k_planets_castra",
+			setting_type = "startup",
+			default_value = true,
+			order = "talandar_2k_planets",
+		},
+	})
+end
+
 if mods["secretas"] then
 	data:extend({
 		{
