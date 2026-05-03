@@ -1,9 +1,8 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.3.2
-Date: 2026-04-29
+Version: 0.4.0
+Date: 2026-05-03
   Changes:
-    - added better atmosphere 
-    - adjusted rotation
+    - added better atmosphere around planet and adjusted rotation and clouds for all planets 
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.0
 Date: 2026-03-20
